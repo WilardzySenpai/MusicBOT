@@ -1,0 +1,29 @@
+{
+  "default_prefix" : "+",
+ "owner" :  ["801334443281219584"],
+ "DB": "", // your mongodb *remove this text before running*
+"log":  "915769697834790933", 
+"spotifyID" : "3c772cb0fa1642159603a1c897ddbfaf",
+"spotifySecret": "f1c4d9fce1d44fc4bf93145b8b3b2ed5",
+"nodes":[
+    
+    
+    {
+     "host": "", // your lavalink *remove this text before running*
+     "port": , 
+      "password": "", 
+      "secure": true
+    
+      
+      
+    },
+      {
+     "host": "", // your lavalink *remove this text before running*
+      "port": , 
+      "password": "", 
+      "secure": true
+    }
+    
+    ]
+  
+}
